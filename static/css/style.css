@@ -46,20 +46,7 @@ header h1 {
     margin-bottom: 2rem;
 }
 
-.cta-btn {
-    background-color: #fff;
-    color: #000;
-    border: none;
-    padding: 12px 24px;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
 
-.cta-btn:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 16px rgba(255,255,255,0.2);
-}
 
 footer {
     font-size: 0.9rem;
